@@ -6,7 +6,7 @@ AOS.init();
 
 function TextProv(){
 
-    const [text,setText]=useState(<h2>Parabéns pelos seus 20 aninhos!</h2>)
+    const [text,setText]=useState(<h2>Parabéns pelos seus 21 aninhos!</h2>)
 
        
     return(

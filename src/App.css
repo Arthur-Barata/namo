@@ -118,13 +118,12 @@ img{
 
 
 .close{
-  text-align: center;
   align-self: flex-end;
-  align-content: flex-start;
-  background-color:gray;
-  border-radius:0.3rem;
-  width: 1rem;
+  background-color:#ed3f54;
+  border-radius:0;
+  padding:1rem;
   margin-right: 1rem;
+  margin-top: 1rem;
  
 }
 

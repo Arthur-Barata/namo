@@ -9,7 +9,7 @@ AOS.init();
 function App() {
   
   
-  const[text,setText]=useState("Te desejo tudo de bom nessa vida (euu). Obrigado por ser essa pessoa incrível e ser minha parceirinha nos melhores e piores momentos, Eu te amo demais!!!!!  \n\n\nDeseja continuar?")
+  const[text,setText]=useState("Feliz Aniversário meu Amor!!Te desejo tudo de bom nessa vida (euu). Obrigado por ser essa pessoa incrível e ser minha parceirinha nos melhores e piores momentos, Eu te amo demais !!!!!  \n\n\nDeseja continuar?")
   
   
   function textpro(element){
@@ -94,7 +94,7 @@ function modalClose3(){
       <div className="modal3">
         <button className="close" onClick={modalClose3}>X</button>
         <img src="./ana-cor.jpg"></img>
-        <h2>Parabéns vc ganhou um ingresso para prestigiar um belíssimo show, com a Ana e a Vitória! 🎤👭</h2>
+        <h2>Parabéns vc ganhou um ingresso para prestigiar o belíssimo show da Ana e da Vitória! 🎤👭</h2>
       </div>
 
     </div>
